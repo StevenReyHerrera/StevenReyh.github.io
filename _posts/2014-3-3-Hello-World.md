@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: BIENVENIDO A MI BLOG!
 ---
 Este es mi primer blog =)
 ## Sección 1
